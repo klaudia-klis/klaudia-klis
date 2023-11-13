@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**klaudia-klis/klaudia-klis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Klaudia and I'm a Full Stack Developer based in Gdynia, Poland.
+I'm proficient in JavaScript, React, TypeScript, CSS, and HTML. I'm very passionate about creating user-friendly and easy-to-use page designs.
 
-Here are some ideas to get you started:
+## My projects 🔭 
+- [React on FE and Express on BE Mobile Devices Shop with PostgreSQL database](https://github.com/pl-fe-may23-codecreators/product-catalog)
+- [React Todo App](https://github.com/klaudia-klis/React-TodoApp)
+- [Pots Shop Landing Page](https://github.com/klaudia-klis/LandingPage-Pots)
+- [Museum Lading Page](https://github.com/klaudia-klis/LandingPage-Museum)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me 📫
+- [Email](mailto:klisklaudia97@gmail.com)
+- [LinkedIn](https://linkedin.com/in/klaudia-klis)
+
+####  I’m currently learning more about Node.js! 🌱
