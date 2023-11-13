@@ -5,7 +5,7 @@ I'm proficient in JavaScript, React, TypeScript, CSS, and HTML. I'm very passion
 
 ## My projects 🔭 
 - [React on FE and Express on BE Mobile Devices Shop with PostgreSQL database](https://github.com/pl-fe-may23-codecreators/product-catalog)
-- [React Todo App](https://github.com/klaudia-klis/React-TodoApp)
+- [React Todo App with TypeScript and API](https://github.com/klaudia-klis/React-TodoApp)
 - [Pots Shop Landing Page](https://github.com/klaudia-klis/LandingPage-Pots)
 - [Museum Lading Page](https://github.com/klaudia-klis/LandingPage-Museum)
 
