@@ -13,4 +13,4 @@ I'm proficient in JavaScript, React, TypeScript, CSS, and HTML. I'm very passion
 - [Email](mailto:klisklaudia97@gmail.com)
 - [LinkedIn](https://linkedin.com/in/klaudia-klis)
 
-####  I’m currently learning more about Node.js! 🌱
+####  I’m currently working with Wordpress and PHP.
