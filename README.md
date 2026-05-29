@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Klaudia and I'm a Full Stack Developer based in Gdynia, Poland.
+My name is Klaudia and I'm a Full Stack Developer based in Warsaw, Poland.
 I'm proficient in JavaScript, React, TypeScript, CSS, and HTML. I create user-friendly and easy-to-use page designs.
 
 ## My projects 🔭 
